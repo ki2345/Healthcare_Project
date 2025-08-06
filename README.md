@@ -5,12 +5,18 @@ An interactive healthcare analytics dashboard designed to track patient flow, bi
 The Papollo Hospitals Leads Flow Dashboard provides a centralized view of patient admissions, discharges, diagnosis categories, billing amounts, and feedback volume per doctor. Built for hospital administrators and operations teams, this dashboard offers a data-driven lens to monitor hospital efficiency, resource utilization, and financial performance.
 
 The dashboard was developed using the following technologies:
+
 • 📊 Power BI Desktop – Core platform for creating data visualizations and interactivity.
+
 • 🔄 Power Query – Used to clean, transform, and load patient and hospital records.
+
 • 🔗 Data Modeling – Relationships established across date tables, patient data, diagnoses, and doctor feedback.
+
 • 📁 File Format – .pbix for Power BI development; exported .png for dashboard snapshots.
 
+
 • Business Problem
+
 Hospitals often struggle with real-time insights into patient flow, billing disparities, and doctor feedback trends—resulting in inefficiencies in staffing, resource allocation, and financial forecasting.
 
 • Goal of the Dashboard
@@ -23,6 +29,7 @@ c) Tracks diagnosis trends and patient volumes.
 d) Compares billing vs insurance reimbursements.
 
 e) Measures patient feedback volume for individual doctors.
+
 
 • Walkthrough of Key Visuals
   1. 📅 Admission, Discharge, Follow-up Dates (Top Tiles)
@@ -52,6 +59,7 @@ e) Measures patient feedback volume for individual doctors.
   7. 💸 Billing Amount vs Health Insurance Amount (Line Chart)
 
       Compares direct billing and insurance payouts across diagnoses—useful for financial planning and claims auditing.
+     
 
 • Business Impact & Insights
   a) 🧾 Revenue Intelligence: Helps finance teams track income from both direct billing and insurance reimbursements.
