@@ -15,6 +15,11 @@ The dashboard was developed using the following technologies:
 • 📁 File Format – .pbix for Power BI development; exported .png for dashboard snapshots.
 
 
+Source
+
+Sample hospital data extracted from an Excel file provided via an educational YouTube channel. The dataset was curated for learning and dashboard development purposes and includes anonymized patient information such as admission/discharge dates, diagnoses, billing amounts, insurance claims, bed occupancy, and doctor feedback metrics.
+
+
 Business Problem
 
 Hospitals often struggle with real-time insights into patient flow, billing disparities, and doctor feedback trends—resulting in inefficiencies in staffing, resource allocation, and financial forecasting.
