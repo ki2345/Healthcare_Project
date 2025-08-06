@@ -81,5 +81,7 @@ Business Impact & Insights
 
   e) 📊 Strategic Reporting: Enables weekly/monthly reviews with leadership based on data-driven trends.
   
+  
+ DashBoard Preview 
 
 ![DashBoard Preview](https://github.com/ki2345/Healthcare_Project/blob/main/Snapshot%20of%20the%20DashBoard.PNG)
