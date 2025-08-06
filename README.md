@@ -15,11 +15,13 @@ The dashboard was developed using the following technologies:
 • 📁 File Format – .pbix for Power BI development; exported .png for dashboard snapshots.
 
 
-• Business Problem
+Business Problem
 
 Hospitals often struggle with real-time insights into patient flow, billing disparities, and doctor feedback trends—resulting in inefficiencies in staffing, resource allocation, and financial forecasting.
 
-• Goal of the Dashboard
+
+Goal of the Dashboard
+
 a) To provide hospital management with an intuitive and actionable dashboard that:
 
 b) Monitors leads (patients) from admission to follow-up.
@@ -31,7 +33,8 @@ d) Compares billing vs insurance reimbursements.
 e) Measures patient feedback volume for individual doctors.
 
 
-• Walkthrough of Key Visuals
+Walkthrough of Key Visuals
+
   1. 📅 Admission, Discharge, Follow-up Dates (Top Tiles)
 
       Clearly displays key patient journey milestones to understand flow timelines.
@@ -61,7 +64,8 @@ e) Measures patient feedback volume for individual doctors.
       Compares direct billing and insurance payouts across diagnoses—useful for financial planning and claims auditing.
      
 
-• Business Impact & Insights
+Business Impact & Insights
+
   a) 🧾 Revenue Intelligence: Helps finance teams track income from both direct billing and insurance reimbursements.
 
   b) 🧠 Operational Efficiency: Identifies high-traffic diagnosis categories for better resource deployment.
@@ -71,5 +75,6 @@ e) Measures patient feedback volume for individual doctors.
   d) 🏥 Bed Management: Offers a clear snapshot of bed utilization, assisting in capacity optimization.
 
   e) 📊 Strategic Reporting: Enables weekly/monthly reviews with leadership based on data-driven trends.
+  
 
 ![DashBoard Preview](https://github.com/ki2345/Healthcare_Project/blob/main/Snapshot%20of%20the%20DashBoard.PNG)
